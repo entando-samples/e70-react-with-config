@@ -1,0 +1,12 @@
+code: et-app-conf
+titles:
+  en: Entando Template MF with conf
+  it: Entando Template MF with conf
+group: free
+customUiPath: et-widget.ftl
+configUi:
+  customElement: my-widget-config # The name of the custom-element used to render the configUI
+  resources:
+    - entando-mf-conf-template/static/js/2.f68d92a9.chunk.js
+    - entando-mf-conf-template/static/js/main.78603847.chunk.js
+    - entando-mf-conf-template/static/js/runtime-main.0096342d.js
