@@ -5,8 +5,8 @@ titles:
 group: free
 customUiPath: et-widget.ftl
 configUi:
-  customElement: my-widget-config # The name of the custom-element used to render the configUI
-  resources:
+  customElement: my-widget-config # CHANGE-IT The name of the custom-element used to render the configUI
+  resources: # CHANGE-IT the file containing the config screen built artefacts
     - entando-mf-conf-template/static/js/2.f68d92a9.chunk.js
-    - entando-mf-conf-template/static/js/main.78603847.chunk.js
+    - entando-mf-conf-template/static/js/main.62869779.chunk.js
     - entando-mf-conf-template/static/js/runtime-main.0096342d.js

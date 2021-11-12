@@ -161,3 +161,6 @@ Desktop.ini
 /**/.ent/
 /ui/**/build/
 /bundle/
+
+####
+bundle/
