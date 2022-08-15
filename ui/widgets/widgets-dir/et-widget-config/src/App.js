@@ -17,7 +17,7 @@ class App extends React.Component {
         const { name } = this.state;
         return (
             <div>
-                <h1>Sample Entando 6 Widget Configuration</h1>
+                <h1>Sample Entando Widget Configuration</h1>
                 <label htmlFor="name">Name</label>
                 <input id="name" onChange={e => this.handleNameChange(e.target.value)} value={name} />
             </div>

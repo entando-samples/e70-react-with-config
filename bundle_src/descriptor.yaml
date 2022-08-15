@@ -1,5 +1,5 @@
-code: entando-mf-conf-template
-description: a mf with configuration
+code: e70-react-with-config
+description: a React MFE with configuration
 components:
   widgets:
     - ui/widgets/widgets-dir/et-widget/et-widget-descriptor.yaml
